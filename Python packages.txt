@@ -1,0 +1,113 @@
+try to search in pypi.python.org 
+The Hitchhiker's Guide to Python: Scenario guide for Python Application
+
+
+source: https://www.youtube.com/watch?v=hmEizAvJHQA
+ask at: https://www.facebook.com/groups/pyonieri
+
+WEB:
+  django
+  flask
+
+WEB SCRAPPING:
+  requests
+  lxml
+  scrapy
+  fuzzywuzzy
+
+TERMINAL APP:
+  click
+  clint
+
+WINDOW APP:
+  pygtk
+  pyqt
+  wxpython
+  kivy
+
+MOBILE APP:
+  kivy
+
+DATA:
+  numpy
+  scipy
+  ipython
+  matplotlib
+  pandas
+  ntlk
+  notebook(jupyter)
+
+PICTURES:
+  pillow
+
+READ XML, THML:
+  lxml
+  beautifulsoup4
+
+CREAT XML, HTML:
+  linja2
+  lxml
+
+WOK WITH JSON:
+  json(aleady in python)
+
+SQL: 
+  sqlalchemy (can all)
+  records (small)
+  peewee (small)
+  Django has own one 
+
+SEARCH BUG IN CODE:
+  pdb(in python)
+  ipdb
+  pprit
+
+TESTING:
+  unittest(in python)
+  pytest
+  nose
+  tox
+
+PYTHON CODE STYLE CHECK:
+  flake8
+
+CREATE DOCUMENTATION:
+  sphinx
+  pdfkit
+  pelican
+
+GAMES:
+  pygame
+  pyglet
+
+RUN ANOTHER APP:
+  plumbum
+  sh
+  subprocess
+
+DATUM AND TIME OPERATIONS:
+  arrow
+  python-dateunit
+
+AUDIO, VIDEO:
+  youtube_dl
+  beets
+
+MAPS AND CARTOGRAFY:
+  folium
+  pyqgis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
